@@ -19,7 +19,9 @@ Here HTML
 JavaScript and
 CSS was used for the build up of this project.
 ### BDD
-
+For an equilatreal triangle all sides are equal
+For an isosceles triangle  two sides are equla only
+For a scalene trangle no side is equal to the other
 
 
 ## Support and contact details
